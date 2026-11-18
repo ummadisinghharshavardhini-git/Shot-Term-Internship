@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the projects, programs, and practical exercises completed during my short-term internship at **BR Concepts** under the **Artificial Intelligence and Machine Learning (AI/ML)** domain.
+This repository contains the projects, programs, and practical exercises completed during my short-term internship at **SOCIETY  FOR  LEARNING  TECHNOLOGIES(SOLETE) INTERNSHIP  PROGRAM** under the **FULL  STACK  DEVELOPMENT** domain.
 
 The internship focused on building a strong foundation in Python programming, data analysis, and machine learning concepts through hands-on practice and mini-projects.
 
@@ -107,8 +107,9 @@ Through this internship, I gained practical experience in:
 
 ## Author
 
-**Harshitha**
+**Harsha Vardhini**
 B.Tech – Computer Science and Engineering (Data Science)
 SRK Institute of Technology, Vijayawada
 
-GitHub: https://github.com/harshi20070521-hue
+GitHub: https://github.com/ummadisinghharshavardhini-git
+GitHub Repository: https://github.com/ummadisinghharshavardhini-git/Shot-Term-Internship
