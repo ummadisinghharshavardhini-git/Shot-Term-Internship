@@ -8,33 +8,30 @@ The internship focused on building a strong foundation in Python programming, da
 
 ## Technologies Used
 
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
+* Frontend
+* Backend
+* Database
+* Tools & Development
 
 ## Topics Covered
 
-### Python Fundamentals
+### Frontend
 
-* Variables and Data Types
-* Operators
-* Conditional Statements
-* Looping Statements
-* Functions
-* Local and Global Variables
-* Arguments and Parameters
-* Return Statements
+* HTML
+* CSS
+* JavaScript
+* React.js
+* Bootstrap
+* Angular
 
-### NumPy
+### Backend (Server Side)
 
-* Array Creation
-* Array Operations
-* Mathematical Functions
-* Indexing and Slicing
+* Node.js
+* Express.js
+* Python
+* Java
+* PHP
+* Django
 
 ### Pandas
 
@@ -101,9 +98,9 @@ Through this internship, I gained practical experience in:
 
 ## Internship Details
 
-**Organization:** BR Concepts
-**Domain:** Artificial Intelligence & Machine Learning (AI/ML)
-**Type:** Training Internship
+**Organization:** SOCIETY  FOR  LEARNING  TECHNOLOGIES(SOLETE)
+**Domain:** FULL  STACK  DEVELOPMENT
+**Type:** Internship
 
 ## Author
 
