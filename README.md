@@ -1,4 +1,4 @@
-# Short-Term Internship – AI & ML Training
+# Internship – FULL  STACK  DEVELOPMENT 
 
 ## Overview
 
